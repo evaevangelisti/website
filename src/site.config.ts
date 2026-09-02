@@ -1,6 +1,6 @@
 export const site = {
 	name: "Eva Evangelisti",
-	role: "Computer Science Graduate & Philosophy Student",
+	role: "Computer Science Graduate",
 	description:
 		"Computer Science graduate with a background in Philosophy, interested in Natural Language Processing.",
 	email: "hi@evaevangelisti.me",
